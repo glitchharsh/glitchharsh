@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development and competetive programming.
 - 🌱 I’m currently learning C++ and DSA.
 - 💞️ I’m looking to collaborate on small random projects in python and C++
-- 📫 How to reach me prajapatiharsh.2103@gmail.com however I'm more likely to replay @_harsh_prajapti on IG😜.
+- 📫 How to reach me prajapatiharsh.2103@gmail.com.
 
 <!---
 glitchharsh/glitchharsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
