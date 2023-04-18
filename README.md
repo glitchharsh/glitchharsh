@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glitchharsh. A student at HBTU pursuing a B.Tech. degree in CSE.
-- 👀 I’m interested in Android Development and competetive programming.
-- 🌱 I’m currently learning C++ and DSA.
+- 👀 I’m interested in Web Development and Blockchain.
+- 🌱 I’m currently learning Python, Go and DSA.
 - 💞️ I’m looking to collaborate on small random projects in python and C++
 - 📫 How to reach me prajapatiharsh.2103@gmail.com.
 
